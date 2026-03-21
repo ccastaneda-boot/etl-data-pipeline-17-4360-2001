@@ -1,0 +1,7 @@
+El estudiante deberá:
+- Leer 3 archivos CSV (Clave F)
+- Limpiar datos
+- Integrar información
+- Separar datos en curated y rejects
+- Cargar datos en PostgreSQL (Render)
+- Subir proyecto a GitHub
