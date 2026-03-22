@@ -1,0 +1,7 @@
+id_pedido,id_cliente,fecha_pedido,monto,estado,motivo_rechazo
+PED7001,,2025-01-31,2395.24,cancelado,IDcliente_vacio
+PED7056,,2024-09-16,592.51,enviado,IDcliente_vacio
+PED7074,,2024-08-04,723.41,pendiente,IDcliente_vacio
+PED7128,,2024-05-23,550.13,enviado,IDcliente_vacio
+PED7192,,2025-03-13,1859.39,preparacion,IDcliente_vacio
+PED7219,,2025-02-04,633.26,cancelado,IDcliente_vacio
