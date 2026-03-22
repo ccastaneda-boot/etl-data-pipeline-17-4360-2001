@@ -1,0 +1,8 @@
+id_cliente,cliente,correo,telefono,motivo_rechazo
+CL1010,Fernando Gómez 10,,76885202,correo_vacio
+CL1027,Elena Ramírez 27,,73992809,correo_vacio
+CL1077,Diego Morales 77,,75356137,correo_vacio
+CL1084,Andrés Romero 84,,,correo_vacio
+CL1094,Paola Guerrero 94,,73486962,correo_vacio
+CL1100,Carmen Torres 100,,79293388-,correo_vacio
+CL1105,José Gómez 105,,74726461,correo_vacio
