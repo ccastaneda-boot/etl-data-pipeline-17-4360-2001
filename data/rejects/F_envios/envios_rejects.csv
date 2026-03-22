@@ -1,0 +1,9 @@
+id_envio,id_pedido,direccion,fecha_envio,estado_envio,motivo_rechazo
+ENV8056,,"Boulevard Constitución, Sonsonate",2024-12-22,devuelto,IDpedido_vacio
+ENV8109,,"Calle El Mirador, La Libertad",2024-03-08,devuelto,IDpedido_vacio
+ENV8117,,"Pje. Las Flores, San Miguel",2025-06-06,preparando,IDpedido_vacio
+ENV8124,,"Pje. Las Flores, La Libertad",2025-03-03,preparando,IDpedido_vacio
+ENV8126,,"Pje. Las Flores, Santa Ana",2024-07-05,en ruta,IDpedido_vacio
+ENV8148,,"Calle Principal, Usulután",2025-01-09,preparando,IDpedido_vacio
+ENV8189,,"Calle El Mirador, Sonsonate",,entregado,IDpedido_vacio
+ENV8194,,"Calle El Mirador, La Libertad",2024-03-04,entregado,IDpedido_vacio
